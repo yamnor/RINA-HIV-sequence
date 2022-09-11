@@ -1,7 +1,7 @@
 matplotlib
 numpy
 
-#scikit-learn
+scikit-learn
 
 pandas
 #seaborn
